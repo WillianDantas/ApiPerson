@@ -1,0 +1,18 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/ApiPerson/.vs/Person.API/v16
+/ApiPerson/Person.API/obj
+/ApiPerson/.vs/Person.API
+/ApiPerson/.vs/Person.API
+/ApiPerson/Person.Domain/bin/Debug/netcoreapp2.2
+/ApiPerson/Person.Domain/obj
+/ApiPerson/Person.Infra.Data/obj
+/ApiPerson/Person.Infra.Data/bin/Debug/netcoreapp2.2
+/ApiPerson/Person.Integracao.Teste/bin/Debug/netcoreapp2.2
+/ApiPerson/Person.Integracao.Teste/obj
+/ApiPerson/Person.Service/bin/Debug/netcoreapp2.2
+/ApiPerson/Person.Service/obj
+/tools
